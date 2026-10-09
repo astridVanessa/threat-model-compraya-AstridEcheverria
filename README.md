@@ -1,4 +1,4 @@
-# Modelo de amenazas - CompraYa (Tienda en línea)
+# Modelo de amenazas - CompraYa Tienda en línea
 
 Repositorio del modelo de amenazas de la plataforma de comercio electrónico **CompraYa** (caso académico ficticio), elaborado con **OWASP Threat Dragon v2** y la metodología **STRIDE por elemento**.
 
